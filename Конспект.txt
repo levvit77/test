@@ -32,3 +32,5 @@
 	git commit -a -m "Comment" - добавление в индекс и коммит
 	
 	git checkout <hashId> - переход к состоянию ветки в момент hashId
+	
+	clear - очистка консоли
